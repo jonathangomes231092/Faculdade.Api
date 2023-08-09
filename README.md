@@ -1,5 +1,5 @@
 # Projeto Api em .net 5.0 (para cadastro de alunos, turma, materias e professores)
-também um cadastro de login e senha.
+esse projeto foi meu primeiro teste de empresa.
 ## Tecnologias utilizadas:
 
 * AspNet api
